@@ -124,7 +124,7 @@ def author_redirect(author):
 @app.route('/feeds/')
 @app.route('/')
 def index():
-    return redirect('https://edavis.github.io/hnrss/')
+    return redirect('https://hnrss-cmn.herokuapp.com/')
 
 if __name__ == '__main__':
     app.run(debug=True)
