@@ -1,6 +1,7 @@
 import requests
 
 class API(object):
+    #base_url = 'https://hn.algolia.com/api/v1'
     base_url = 'https://hn.algolia.com/api/v1'
 
     def __init__(self, points=None, comments=None, link_to='url', query=None):
