@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/minosniu/hnrss.svg)](https://travis-ci.org/minosniu/hnrss)
+
 hnrss — Hacker News RSS
 ========================
 
